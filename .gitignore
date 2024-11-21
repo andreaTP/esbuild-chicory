@@ -1,0 +1,5 @@
+target
+.idea
+esbuild-bin
+esbuild-test
+src/main/resources/esbuild.wasm
